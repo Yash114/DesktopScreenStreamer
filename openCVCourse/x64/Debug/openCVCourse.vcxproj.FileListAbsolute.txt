@@ -1,0 +1,2 @@
+C:\Users\redsc\source\repos\openCVCourse\openCVCourse\x64\Debug\openCVCourse.vcxproj.CopyComplete
+C:\Users\redsc\source\repos\GPPC-v1\openCVCourse\x64\Debug\openCVCourse.vcxproj.CopyComplete
